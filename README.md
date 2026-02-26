@@ -180,7 +180,7 @@ Huawei P10 | `VTR` | Kirin 960
 
 #### Kirin-Tool
 
-Kirin-Tool is a tool that is able to unlock the bootloader of Kirin 710/710F, Kirin 970, Kirin 980 devices!
+Kirin-Tool is a tool that is able to unlock the bootloader of Kirin 710/710F, Kirin 970 and Kirin 980 devices!
 **For free of course**
 
 However, note that it only works for devices on the emui versions *9.1* and under
