@@ -32,7 +32,7 @@ Follow the [video guide](https://www.youtube.com/watch?v=YkGugQ019ZY) or read th
     - Kirin 950
     - Kirin 960
 3. **100% incompatible CPUs with PotatoNV: Kirin 710, 710A, 710F, 810, 970, 980, 985, 990 & newer.**
-4. As for Kirin 710, 710F, 970 & 980, there is an alternative **paid** option — [see the "Alternatives" section below](#alternatives).
+4. As for Kirin 710, 710F, 970 & 980, there is an alternative option — [see the "Alternatives" section below](#alternatives).
 
 ### Getting inside
 
@@ -103,7 +103,7 @@ If the device has not been detected, make sure you are using a good cable, the t
 
 > **Note**
 >
-> `Disable FBLOCK` checkbox disables a special securtiy check.
+> `Disable FBLOCK` checkbox disables a special security check.
 > That modification allows you to flash/erase secure partitions or execute oem commands,
 > that are not available with normal unlocking by unlock code \[`USERLOCK`].
 
@@ -178,20 +178,16 @@ Huawei P10 | `VTR` | Kirin 960
 
 ## Alternatives
 
-#### HCU Client
+#### Kirin-Tool
 
-As far as I know, there is currently only one tool that can deal with newer CPUs — HCU Client.
+Kirin-Tool is a tool that is able to unlock the bootloader of Kirin 710/710F, Kirin 970, Kirin 980 devices!
+**For free of course**
 
-This software requires a license, the most affordable plan is 3 days of access for €19.
+However, note that it only works for devices on the emui versions *9.1* and under
+(And a nice addition, it can also rebrand 980, etc for free!)
 
-See supported models by HCU Client [here](https://hcu-client.com/supported-models.php).
-
-> **Note**
-> 
-> [Timed licenses locked to first used PC](https://hcu-client.com/buy/#:~:text=Timed%20licenses%20locked%20to%20first%20used%20PC) for two days.
-> Therefore, it would be problematic to use such a license on more than one phone.
-
-###### Disclaimer: I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with UAB Digiteka, or any of its subsidiaries or its affiliates, including DC-Phoenix and HCU Client.
+https://kirintool.cfd
+https://t.me/kirintoolsupport
 
 ## License
 
